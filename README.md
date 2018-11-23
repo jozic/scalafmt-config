@@ -1,5 +1,5 @@
 # scalafmt-config
-Scalafmt configuration file used across several projects
+[Scalafmt](https://github.com/scalameta/scalafmt) configuration file used across several projects
 
 ## How To Use
 
